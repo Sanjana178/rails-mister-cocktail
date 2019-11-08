@@ -1,1 +1,14 @@
 // Specific CSS for your home-page
+body {
+  font-family: Helvetica;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.wrapper{
+  position: relative;
+  margin: 0 auto;
+}
